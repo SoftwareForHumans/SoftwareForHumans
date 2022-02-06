@@ -1,6 +1,6 @@
 # Software for Humans
 
-_Software for Humans_ is a group of Software Engineering researchers exploring and studying how to improve the lives of software developers, through new approaches and tools that support everyday software development activities. Watch this repository, as we will soon add more information about our works and results. For now, you can learn below about two of our most promising tool prototypes: _Dockerlive_ and _Hermit_.
+_Software for Humans_ aggregates Software Engineering researchers exploring and studying how to improve the lives of software developers, through new approaches and tools that support everyday software development activities. Watch this repository, as we will soon add more information about our works and results. For now, you can learn below about two of our most promising tool prototypes: _Dockerlive_ and _Hermit_.
 
 ## Dockerlive
 
